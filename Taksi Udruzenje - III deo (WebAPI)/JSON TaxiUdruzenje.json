@@ -1,0 +1,95 @@
+
+//DODAVANJE I AZURIRANJE VOZACA
+{
+  "jmbg": "3456718901983",
+  "ime": "Pavle",
+  "srednjeSlovo": "Z",
+  "prezime": "Antonijevic",
+  "adresa": "Generala Boze Jankovica 1",
+  "brojTelefona": "0600198001",
+  "kategorija": "B",
+  "brojDozovole": "980012347"
+}
+//DODAVANJE I AZURIRANJE ADMINA
+{
+  "jmbg": "8973001983245",
+  "ime": "Marko",
+  "srednjeSlovo": "K",
+  "prezime": "Kraljevic",
+  "adresa": "Kralja Vukasina 25",
+  "brojTelefona": "0644432218",
+  "strucnaSprema": "Specijalističke strukovne studije"
+}
+
+//DODAVANJE VOZNJE
+{
+  "pocetnaStanica": "string",
+  "krajnjaStanica": "string",
+  "pocetnoVreme": "2023-06-14T19:01:50.770Z",
+  "krajnjeVreme": "2023-06-14T19:01:50.770Z",
+  "brojPoziva": "string",
+  "vremePrimPoziva": "2023-06-14T19:01:50.770Z"
+}
+
+//DODAVANJE I AZURIRANJE TAXI VOZILA
+{
+  "registarskaOznaka": "LE372AD",
+  "marka": "Volvo",
+  "tip": "SVU",
+  "datumIstekaRegistracije": "2026-09-25",
+  "godinaProizvodnje": 2008
+}
+
+//DODAVANJE SOPSTVENOG VOZILA (ZA AZURIRANJE MORA DA OSTANE ID VOZILA)
+{
+  "tipVozila": "string",
+  "boja": "string",
+  "marka": "string",
+  "datumOd": "2023-06-14T19:07:53.170Z",
+  "datumDo": "2023-06-14T19:07:53.170Z"
+}
+//DODAVANJE REDOVNE MUSTERIJE 
+{
+  "adresa": "Vojvode Misica 12",
+  "brojKoriscenihVoznji": 12,
+  "brojeviTelefona": [
+    {
+      "brTel": "018773664"
+    }
+  ]
+}
+
+//AZURIRANJE REDOVNE MUSTERIJE, TAKODJE SE MOZE DODATI NOVI BROJ TELEFONA IZ BODY-A
+{
+    "redMusterijaId": 21,
+    "adresa": "Vojvode Misica 12",
+    "brojKoriscenihVoznji": 12,
+    "brojeviTelefona": [
+      {
+        "brTelefonaId": 23,
+        "brTel": "018773664"
+      },
+      {
+        "brTelefonaId": 27,
+        "brTel": "0653326671"
+      }
+    ]
+  }
+ 
+ 
+//DODAVANJE NOVOG DODELJENO ODNOSA VOZACA I VOZILA
+{
+  "datumOd": "2023-06-15T16:56:46.954Z",
+  "datumDo": "2023-06-15T16:56:46.954Z"
+}
+
+//DODAVANJE VOZNJE
+{
+  "pocetnaStanica": "Duvanska",
+  "krajnjaStanica": "Rajiceva",
+  "pocetnoVreme": "2023-06-15T16:12:04.180Z",
+  "krajnjeVreme": "2023-06-15T16:55:34.180Z",
+  "brojPoziva": "018523176",
+  "vremePrimPoziva": "2023-06-15T16:10:04.180Z"
+}
+

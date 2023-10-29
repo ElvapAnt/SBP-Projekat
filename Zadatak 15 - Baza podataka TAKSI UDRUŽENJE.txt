@@ -1,0 +1,17 @@
+Potrebno je projektovati bazu podataka za potrebe poslovanja taksi udruzenja. U bazi podataka se vodi
+evidencija o svim zaposlenima. Za svakog zaposlenog se pamti ime, srednje slovo i prezime, JMBG, adresa
+i broj telefona. Taksi udruženje zapošljava vozače i administrativno osoblje. Za administrativno osoblje se
+pamti stručna sprema, a za vozače broj vozačke dozvole i kategorija. Taksi udruženje poseduje u svom
+vlasništvu veći broj taksi vozila koja dodeljuje vozačima na određeni period. Za svako vozilo se pamti
+registarska oznaka, marka, tip, godina proizvodnje, kao i datum isteka registracije. U bazi se pamti istorija
+dodeljivanja vozila, odnosno, koji vozač je od kog do kog datuma upravljao kojim vozilom. Taksi udruženje
+omogućava svojim vozačima i da u svrhe taksiranja koriste svoja vozila. Za takva vozila se samo pamti
+marka, tip i boja. Za takva vozila se takođe pamti datum početka i kraja korišćenja obzirom da je
+omogućeno da jedan vozač tokom vremena koristi različita sopstvena vozila za taksiranje. Taksi udruženje
+vodi evidenciju o svojim redovnim mušterijama i daje im popuste u zavisnosti od broja korišćenih vožnji.
+Svakoj redovnoj mušteriji je dodeljen jedinstveni identifikacioni broj, adresa, kao i veći broj registrovanih
+brojeva telefona sa kojih mušterija naručuje vožnje. U bazi podataka se vodi evidencija o svim obavljenim
+vožnjama. Svaka vožnja se identifikuje jedinstvenim identifikacionim brojem, a pamti se vreme početka i
+vreme kraja vožnje, kao i početna i krajnja stanica. Za svaku vožnju se takođe pamti ko od administrativnog
+osoblja je primio poziv, sa kog broja telefona i vreme kada je primljen poziv. Takođe, za svaku vožnju se
+pamti koji od vozača je obavio vožnju.

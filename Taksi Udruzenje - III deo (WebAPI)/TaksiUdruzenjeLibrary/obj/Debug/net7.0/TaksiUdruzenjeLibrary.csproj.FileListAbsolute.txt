@@ -1,0 +1,24 @@
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\bin\Debug\net7.0\TaksiUdruzenjeLibrary.deps.json
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\bin\Debug\net7.0\TaksiUdruzenjeLibrary.dll
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\bin\Debug\net7.0\TaksiUdruzenjeLibrary.pdb
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.dll
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\refint\TaksiUdruzenjeLibrary.dll
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.pdb
+C:\Users\Korisnik\Desktop\SBP FILES\TaksiUdruzenjeLibrary\obj\Debug\net7.0\ref\TaksiUdruzenjeLibrary.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\bin\Debug\net7.0\TaksiUdruzenjeLibrary.deps.json
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\bin\Debug\net7.0\TaksiUdruzenjeLibrary.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\bin\Debug\net7.0\TaksiUdruzenjeLibrary.pdb
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\refint\TaksiUdruzenjeLibrary.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\TaksiUdruzenjeLibrary.pdb
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - III deo (WebAPI)\TaksiUdruzenjeLibrary\obj\Debug\net7.0\ref\TaksiUdruzenjeLibrary.dll

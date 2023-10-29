@@ -1,0 +1,223 @@
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.exe.config
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.exe
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.pdb
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Antlr3.Runtime.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Iesi.Collections.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\NHibernate.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Buffers.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Memory.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Numerics.Vectors.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Encodings.Web.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Json.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.ValueTuple.dll
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Antlr3.Runtime.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.pdb
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Iesi.Collections.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\NHibernate.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Buffers.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Memory.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Numerics.Vectors.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Encodings.Web.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Json.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.ValueTuple.xml
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.AssemblyReference.cache
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.SuggestedBindingRedirects.cache
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Form1.resources
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Properties.Resources.resources
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.GenerateResource.cache
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.CoreCompileInputs.cache
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.CopyComplete
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.exe
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.pdb
+D:\Elfak\VI semestar\Sistemi baza podataka\Projekat SBP\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.PocetnaStranica.resources
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_Udruzenje.Form1.resources
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_Udruzenje.PocetnaStranica.resources
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Properties.Resources.resources
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.GenerateResource.cache
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.exe
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.pdb
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.exe.config
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.exe
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.pdb
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Iesi.Collections.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\NHibernate.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Buffers.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Memory.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Json.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.ValueTuple.dll
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.pdb
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Iesi.Collections.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\NHibernate.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Buffers.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Memory.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Json.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.ValueTuple.xml
+C:\Users\Korisnik\Downloads\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_Udruzenje.Form1.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_Udruzenje.PocetnaStranica.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.exe
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.pdb
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.exe.config
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.exe
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Taksi udruzenje.pdb
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Iesi.Collections.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\NHibernate.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Buffers.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Memory.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Json.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.pdb
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\FluentNHibernate.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Iesi.Collections.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\NHibernate.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Buffers.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Memory.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Text.Json.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\bin\Debug\System.ValueTuple.xml
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajMusterijuForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajTaxiForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajSopVoziloForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajVozacaForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajMusterijuForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodeljenoForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajTaxiVoziloForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajSopVoziloForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajVoznjuForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajVozacaForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajAdminaForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.BrojTelefonaForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.RedovneMusterijeForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.SveDodeljenoForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.TaxiVozilaForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.SopstvenaVozilaForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.SveVoznjeForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.VozaciForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajAdminaForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.SviZaposleniForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AdministrativnoOsobljeForma.resources
+C:\Users\Korisnik\Desktop\Drugi deo projekta\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_Udruzenje.Form1.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajMusterijuForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajTaxiForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajSopVoziloForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajVozacaForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajMusterijuForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajDodeljenoForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodeljenoForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajTaxiVoziloForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajSopVoziloForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajVoznjuForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajVozacaForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AzurirajAdminaForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.BrojTelefonaForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.RedovneMusterijeForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.SveDodeljenoForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.TaxiVozilaForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.SopstvenaVozilaForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.SveVoznjeForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.VozaciForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.DodajAdminaForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.SviZaposleniForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Forme.AdministrativnoOsobljeForma.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_Udruzenje.PocetnaStranica.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi_udruzenje.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi udruzenje.exe
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi udruzenje.pdb
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Taksi udruzenje.exe.config
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Taksi udruzenje.exe
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Taksi udruzenje.pdb
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\FluentNHibernate.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Iesi.Collections.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\NHibernate.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Remotion.Linq.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Buffers.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Memory.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Text.Json.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\FluentNHibernate.pdb
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\FluentNHibernate.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Iesi.Collections.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\NHibernate.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Remotion.Linq.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Buffers.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Memory.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Text.Json.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\bin\Debug\System.ValueTuple.xml
+C:\Users\Korisnik\Desktop\SBP FILES\Taksi Udruzenje - II deo (WinForm)\Taksi udruzenje\obj\Debug\Taksi udruzenje.csproj.CopyComplete
