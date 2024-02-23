@@ -1,1 +1,2 @@
-# Database Systems - Taxi Association WinForms + ASP.NET application
+# Database Systems - Taxi Association
+## WinForms + ASP.NET + NHibernate
